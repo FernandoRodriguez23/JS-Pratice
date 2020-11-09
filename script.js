@@ -468,16 +468,16 @@
 
 //Pratice for arrays
 
-let music = ["jazz", "blues"];
-music.push = "R&B";
-console.log(music);
+//let music = ["jazz", "blues"];
+//music.push = "R&B";
+//console.log(music);
 
-if(music.length = 3){
-  music.push = "Classic";
-}
-music.unshift = "rap";
-console.log(music);
-music.unshift = "acapella";
-console.log(music);
+//if(music.length = 3){
+  //music.push = "Classic";
+//}
+//music.unshift = "rap";
+//console.log(music);
+//music.unshift = "acapella";
+//console.log(music);
 
 //===================================================================================================================//
