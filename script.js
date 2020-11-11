@@ -481,3 +481,42 @@
 //console.log(music);
 
 //===================================================================================================================//
+
+// Basic Functions
+
+//Create a function that will take a number and find a numbver 13 more then 4 times the input
+
+//function calMath(number){
+  //number *= 4;
+  //number += 13;
+  //return number;
+//}
+//console.log(calMath(10));
+
+//====================================================================================================//
+
+// Pratice function
+
+// This Function removed all the vowels of the inputed word
+
+//function vowelRemove(word){
+  //word = word.split("");
+
+  //for(let i = 0; i < word.length; i++){
+    //if(word[i] =="a" || word[i] =="e" || word[i] =="i" || word[i] =="o" || word[i] =="u")
+    //word[i] = "";
+  //}
+
+  //let output = "";
+  //for(let i = 0; i < word.length; i++){
+    //output += word[i];
+  //}
+  //return output;
+
+//}
+//console.log(vowelRemove(`Red`));
+//console.log(vowelRemove(`Fernando`));
+
+//===========================================================================================//
+
+
