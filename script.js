@@ -519,4 +519,44 @@
 
 //===========================================================================================//
 
+//Removes word with 4 letters or less
 
+//function wordRemove(sentance){
+  //sentance = sentance.split(" ");
+
+  //let output  = "";
+  //for(let i = 0; i < sentance.length; i++){
+    //if(sentance[i].length <= 4){
+      //output += sentance[i] + " ";
+    //}
+    //return output;
+//}
+//}
+//console.log(wordRemove("Cillum esse eu qui irure commodo in elit consequat nostrud laborum ex aliqua officia eu."));
+
+//================================================================================================================//
+
+//Holt Trinity Pratice
+
+//function calMath(){
+  //let number = Math.ceil(Math.random())*100;
+  //number = 13 + 4 * number;
+  //return number;
+//}
+//console.log(calMath());
+
+//=============================================================================================//
+
+//Pratice #2
+
+function power(){
+
+}
+
+function square(){
+
+}
+
+function slope(){
+  
+}
