@@ -532,6 +532,7 @@
     //return output;
 //}
 //}
+
 //console.log(wordRemove("Cillum esse eu qui irure commodo in elit consequat nostrud laborum ex aliqua officia eu."));
 
 //================================================================================================================//
@@ -549,14 +550,26 @@
 
 //Pratice #2
 
-function power(){
+//function perfectSquare(){
+  //let input = Math.ceil(Math.random()*10);
+  //let output = input ** 2;
+  //return output;
+//}
 
-}
+//function power(){
+  //let input = perfectSquare();
+  //console.log(`The square of ${Math.sprt(input)} is ${input}`);
+//}
 
-function square(){
+//function square(){
+  //let input = perfectSquare();
+  //console.log(`The square root of ${input} is ${Math.sqrt(input)}`);
+//}
 
-}
+//function slope(){
+  //let output = ["Yes", "No", "Maybe"];
+  //console.log(output[Math.floor(Math.random()*3)]);
+//}
 
-function slope(){
-  
-}
+//=============================================================================================//
+
